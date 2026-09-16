@@ -6,6 +6,8 @@ Run with:
     streamlit run streamlit_app.py
 """
 
+pip install plotly
+
 import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
